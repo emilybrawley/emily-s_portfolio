@@ -8,4 +8,4 @@ This repository serves to showcase my skills and as a platform to share projects
 ### Portfolio Projects
 
 #### Certificates
-- [Google Data Analytics Certificate] (https://www.credly.com/badges/a90cbf2a-38c5-446c-b915-f25c7e087f54/public_url) (November 2022) (
+- [Google Data Analytics Certificate](https://www.credly.com/badges/a90cbf2a-38c5-446c-b915-f25c7e087f54/public_url) (November 2022) (
